@@ -1,3 +1,6 @@
-# waymark_encounter_data
+# patient_encounter_data
 
-Involves downloading the files from S3 bucket via API, doing data cleaning and transformations in Python, and saving final results.
+This project focused on transforming patient enrollment and encounter data into a format that is easy to analyze. This project involved:
+* Fetching files from a public S3 bucket via API call
+* Importing the data files into Python to perform doing data cleaning and transformations
+* Exporting the final results in a cleaned up format
